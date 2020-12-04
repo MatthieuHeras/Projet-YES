@@ -2,6 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+
+/Projet YES/[Aa]ssets/360 Videos/
+
 /Projet YES/[Ll]ibrary/
 /Projet YES/[Tt]emp/
 /Projet YES/[Oo]bj/
